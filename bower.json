@@ -1,0 +1,10 @@
+{
+  "name": "flowplayer-flash-plugin-rtmp",
+  "version": "3.2.13",
+  "homepage": "http://flash.flowplayer.org/plugins/streaming/rtmp.html",
+  "authors": [
+    "Flowplayer Ltd."
+  ],
+  "description": "FlowPlayer Flash RTMP Plugin Distribution",
+  "license": "GPL License v3 with ADDITIONAL TERM per GPL Section 7"
+}
